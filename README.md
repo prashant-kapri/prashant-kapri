@@ -20,10 +20,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-kapri)](https://github.com/prashant-kapri/github-readme-stats)
  -->
-<a href="https://github.com/prashant-kapri/github-readme-stats">
+<!-- <a href="https://github.com/prashant-kapri/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-kapri&hide=stars&count_private=true&show_icons=true" />
-</a>
+</a> -->
 [![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant-kapri)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 
 [portfolio](https://prashantkapri.netlify.app/Home)
 

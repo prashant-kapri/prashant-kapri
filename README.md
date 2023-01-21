@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 </br>
 
-[portfolio](https://prashantkapri.netlify.app/Home)
+[Portfolio](https://prashantkapri.netlify.app/Home)
 
 <!-- Actual text -->
 </br>

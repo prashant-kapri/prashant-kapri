@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/prashant-kapri/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-kapri&hide=stars&count_private=true&show_icons=true" />
 </a>
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashant-kapri)](https://github.com/anuraghazra/github-readme-stats)
 
 [portfolio](https://prashantkapri.netlify.app/Home)
 

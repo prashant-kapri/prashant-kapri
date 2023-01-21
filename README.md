@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-kapri&hide=stars&count_private=true&show_icons=true" />
 </a>
 
+[portfolio](https://prashantkapri.netlify.app/Home)
+
 <!-- Actual text -->
 </br>
 </hr>

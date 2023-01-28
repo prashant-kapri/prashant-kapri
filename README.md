@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-zubko&&theme=light&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Portfolio
-[Portfolio](https://prashantkapri.netlify.app/Home)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">](https://prashantkapri.netlify.app/Home)
 
 <!-- Actual text -->
 </br>

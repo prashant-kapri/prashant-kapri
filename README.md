@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a Full Stack Web Developer with a focus on TypeScript and Python. I am passionate about problem-solving, logic building and creating better user experience and accessibility. I am happy I can work on these things and make an impact as a developer.
 <!--
 **prashant-kapri/prashant-kapri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
